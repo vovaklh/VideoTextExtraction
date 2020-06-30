@@ -1,0 +1,2 @@
+# VideoTextExtraction application
+This application is used to extract text from video. You have to install the following libraries: **PIL**, **OpenCV** and **pytesseract**. Also you have to install **tesseract** on your computer and indicate the path to it in code. I use application **IPWebcam** to get the array of images from my telephone. 
